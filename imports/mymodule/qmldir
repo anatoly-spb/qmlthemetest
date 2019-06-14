@@ -1,4 +1,3 @@
 module mymodule
 MyButton 1.0 MyButton.qml
-MyButton.Material 1.0 +material/MyButton.qml
 
