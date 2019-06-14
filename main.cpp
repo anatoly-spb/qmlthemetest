@@ -3,6 +3,8 @@
 
 int main(int argc, char *argv[])
 {
+    qputenv("QT_ANGLE_PLATFORM", QByteArray("warp"));
+    qputenv("QT_OPENGL", QByteArray("angle"));
     QCoreApplication::setAttribute(Qt::AA_EnableHighDpiScaling);
 
     QGuiApplication app(argc, argv);
