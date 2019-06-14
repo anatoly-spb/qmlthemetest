@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imports/mymodule/MyButton.qml</file>
+        <file>imports/mymodule/+material/MyButton.qml</file>
+        <file>imports/mymodule/qmldir</file>
+    </qresource>
+</RCC>
