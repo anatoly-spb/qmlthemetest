@@ -34,6 +34,10 @@ ApplicationWindow {
             text: "Dark"
         }
 
+        MyLabel {
+            text: "Label"
+        }
+
         MyButton {
         }
     }

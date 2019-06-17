@@ -1,3 +1,4 @@
 module mymodule
 MyButton 1.0 MyButton.qml
+MyLabel 1.0 MyLabel.qml
 

@@ -3,5 +3,6 @@
         <file>imports/mymodule/MyButton.qml</file>
         <file>imports/mymodule/+material/MyButton.qml</file>
         <file>imports/mymodule/qmldir</file>
+        <file>imports/mymodule/MyLabel.qml</file>
     </qresource>
 </RCC>
